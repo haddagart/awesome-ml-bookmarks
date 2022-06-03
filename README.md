@@ -10,37 +10,48 @@ The repository is designed to help you go from a beginner to a daily practioner 
 ```
 UNDER CONSTRUCTION
 ```
-
 # 📈 Data Science
 ```
 UNDER CONSTRUCTION
 ```
-
 # 👨🏼‍🏫 Machine Learning 
 ```
 UNDER CONSTRUCTION ....
 ```
-
 # 🧠 Deep Learning
 1. [Introduction](https://github.com/haddagart/ml-bookmarks/dl/getting-started/index.md)
 
-
 # 🔖 Bookmarks and resources
 ## Links
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Channels
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Blogs
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Books
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Papers
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Courses
-
+```
+UNDER CONSTRUCTION ....
+```
 ## Projects
-
-# Contributors 
-(\*) _Ordered by first contribution_
+```
+UNDER CONSTRUCTION ....
+```
+# Contributors [^1]
 1. [Abdelkader Haddag](https://github.com/haddagart)
 2. [Amine Sehaba](https://github.com/Sehaba95)
+
+[^1]: Ordered by first contribution
