@@ -23,9 +23,9 @@ UNDER CONSTRUCTION ....
 
 # 🧠 Deep Learning
 1. [Introduction](https://github.com/haddagart/ml-bookmarks/dl/getting-started/index.md)
-2. [Resources](https://github.com/haddagart/ml-bookmarks/dl/index.md)
+2. [Resources](https://github.com/haddagart/ml-bookmarks/dl/resources/index.md)
 
 # Contributors 
-- Ordered by first contribution
+(\*) _Ordered by first contribution_
 1. [Abdelkader Haddag](https://github.com/haddagart)
 2. [Amine Sehaba](https://github.com/Sehaba95)
