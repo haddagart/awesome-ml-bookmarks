@@ -23,7 +23,22 @@ UNDER CONSTRUCTION ....
 
 # 🧠 Deep Learning
 1. [Introduction](https://github.com/haddagart/ml-bookmarks/dl/getting-started/index.md)
-2. [Resources](https://github.com/haddagart/ml-bookmarks/dl/resources/index.md)
+
+
+# 🔖 Bookmarks and resources
+## Links
+
+## Channels
+
+## Blogs
+
+## Books
+
+## Papers
+
+## Courses
+
+## Projects
 
 # Contributors 
 (\*) _Ordered by first contribution_
